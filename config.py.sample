@@ -1,0 +1,5 @@
+account_name = "<your-account-name>"
+board_id = 00000
+lane_id = 00000
+base64_authorization = "<base64(username:password)>"
+max_allowed_size = 2
